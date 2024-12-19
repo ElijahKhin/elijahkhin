@@ -6,7 +6,7 @@
 * [Projects](#projects)
 
 ## About Me
-<img align='right' src='https://github.com/ElijahKhin/elijahkhin/blob/main/materials/guts-berserk.gif' width='400'>
+<img align='right' src='https://github.com/ElijahKhin/elijahkhin/blob/main/materials/guts-berserk.gif' width='200'>
 I am Elijah Khin. 25 y.o. Russia/Moscow.
 
 <ul>
