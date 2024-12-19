@@ -1,4 +1,19 @@
-## Hi there 👋
+## Contents
+
+* [About Me](#about-me)
+* [Expirience](#expirience)
+* [Education](#education)
+* [Projects](#projects)
+
+## About Me
+
+I am Elijah Khin. Data analyst from Russia/Moscow. 25 y.o.
+
+<ul>
+<li>Entrepreneur</li>
+<li>Ex. Data analyst at Samsung Electronics</li>
+<li>Student at High School of Economics and School21 (ex. E'cole 42)</li>
+</ul>
 
 <!--
 **ElijahKhin/elijahkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
