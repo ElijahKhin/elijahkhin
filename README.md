@@ -6,8 +6,7 @@
 * [Projects](#projects)
 
 ## About Me
-![](https://t.me/elijah_khin)
-
+<img align='right' src='https://github.com/elijahkhin/materials/guts-berserk.mp4' width='200'>
 I am Elijah Khin. 
 **Data analyst** from Russia/Moscow. 25 y.o.
 
