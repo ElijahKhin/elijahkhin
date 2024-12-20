@@ -70,4 +70,4 @@ Link to the project: https://github.com/ElijahKhin/algo_graphs
 
 Link to the project: https://github.com/ElijahKhin/SQL2_Info21
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahkhin&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahkhin&layout=compact&theme=white" />
