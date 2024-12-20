@@ -19,7 +19,7 @@ I am Elijah Khin, 25 years old, living in Russia, Moscow.
 
 ### Liilta X (11.2022 - now)
 
-Lilita X (my project) is a technology startup specializing in digital currencies, in particular in the mining of cryptocurrencies. At the moment, the combined hashrate of all devices is ~10 PH/s. The equipment is located on 3 hosting sites in different regions of Russia.
+Lilita X (my pet-project) is a technology startup specializing in digital currencies, in particular in the mining of cryptocurrencies. At the moment, the combined hashrate of all devices is ~10 PH/s. The equipment is located on 3 hosting sites in different regions of Russia.
 
 The main technological task from the point of view of development was ** creation of a decision support system**.
 The DSS includes: integration of external sources, a data warehouse, and a set of BI dashboards.
@@ -49,17 +49,19 @@ In addition to designing and developing a DWH for marketing research purposes, i
 ### Plekhanov Russian University of Economics (2016-2020)
 **Institute of Digital Economics and Information Technology, Business Analytics**
 
-<!--
-**ElijahKhin/elijahkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### Basic algorithms on graphs 
+C++ programming of basic graph algorithms: 
+1. Depth First Search 
+2. 2. Breadth First Search 
+3. Dijkstra's algorithm 
+4. The Floyd-Warshall algorithm 
+5. Prim's algorithm 
+6. Solving the traveling salesman problem using the "ant" algorithm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Link to the project: https://github.com/ElijahKhin/algo_graphs
+
+### Creating a PostgreSQL database for an educational organization
+
+Link to the project: https://github.com/ElijahKhin/SQL2_Info21
