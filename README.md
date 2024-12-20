@@ -58,7 +58,7 @@ In addition to designing and developing a DWH for marketing research purposes, i
 ### Basic algorithms on graphs 
 C++ programming of basic graph algorithms: 
 1. Depth First Search 
-2. 2. Breadth First Search 
+2. Breadth First Search 
 3. Dijkstra's algorithm 
 4. The Floyd-Warshall algorithm 
 5. Prim's algorithm 
