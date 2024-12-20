@@ -70,4 +70,4 @@ Link to the project: https://github.com/ElijahKhin/algo_graphs
 
 Link to the project: https://github.com/ElijahKhin/SQL2_Info21
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elijahkhin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elijahkhin&theme=github_dark)
