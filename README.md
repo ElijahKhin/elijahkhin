@@ -11,7 +11,7 @@
 I am Elijah Khin, 25 years old, living in Russia, Moscow.
 
 <ul>
-<li>Entrepreneur a.k.a unemployed</li>
+<li>Entrepreneur a.k.a. unemployed</li>
 <li>Ex. Data analyst at Samsung Electronics</li>
 <li>Student at High School of Economics and School21 (ex. E'cole 42)</li>
 </ul>
