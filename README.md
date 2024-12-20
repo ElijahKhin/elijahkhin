@@ -44,13 +44,13 @@ In addition to designing and developing a DWH for marketing research purposes, i
 ## Education
 
 ### National Research University Higher School of Economics (2024 - 2026)
-**Faculty of Computer Science, Data Engineering**
+*Faculty of Computer Science, Data Engineering*
 
 ### School 21 / Sber (2021 - 2025)
-**Corporate Programming School**
+*Corporate Programming School*
 
 ### Plekhanov Russian University of Economics (2016-2020)
-**Institute of Digital Economics and Information Technology, Business Analytics**
+*Institute of Digital Economics and Information Technology, Business Analytics*
 
 
 ## Projects
