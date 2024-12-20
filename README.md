@@ -69,3 +69,5 @@ Link to the project: https://github.com/ElijahKhin/algo_graphs
 ### Creating a PostgreSQL database for an educational organization
 
 Link to the project: https://github.com/ElijahKhin/SQL2_Info21
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elijahkhin&theme=github_dark)
