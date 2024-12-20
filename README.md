@@ -5,6 +5,7 @@
 * [Education](#education)
 * [Projects](#projects)
 
+
 ## About Me
 <img align='right' src='https://github.com/ElijahKhin/elijahkhin/blob/main/materials/guts-berserk.gif' width='200'>
 I am Elijah Khin, 25 years old, living in Russia, Moscow.
@@ -14,6 +15,7 @@ I am Elijah Khin, 25 years old, living in Russia, Moscow.
 <li>Ex. Data analyst at Samsung Electronics</li>
 <li>Student at High School of Economics and School21 (ex. E'cole 42)</li>
 </ul>
+
 
 ## Experience
 
@@ -38,6 +40,7 @@ In addition to designing and developing a DWH for marketing research purposes, i
 
 **Technology stack:** Python (Pandas, Numpy), C++, SQL (PostgreSQL), Greenplum, Apache Airflow, Linux (Ubuntu), Power BI, DAX, Power Pivot (M), Apache Superset
 
+
 ## Education
 
 ### National Research University Higher School of Economics (2024 - 2026)
@@ -48,6 +51,7 @@ In addition to designing and developing a DWH for marketing research purposes, i
 
 ### Plekhanov Russian University of Economics (2016-2020)
 **Institute of Digital Economics and Information Technology, Business Analytics**
+
 
 ## Projects
 
