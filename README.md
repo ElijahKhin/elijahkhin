@@ -72,4 +72,4 @@ Link to the project: https://github.com/ElijahKhin/SQL2_Info21
 
 ### 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahkhin&layout=compact&theme=white)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahkhin&layout=compact&theme=white) -->
