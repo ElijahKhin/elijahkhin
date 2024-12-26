@@ -23,7 +23,7 @@ I am Elijah Khin, 25 years old, living in Russia, Moscow.
 
 Lilita X (my pet-project) is a technology startup specializing in digital currencies, in particular in the mining of cryptocurrencies. At the moment, the combined hashrate of all devices is ~10 PH/s. The equipment is located on 3 hosting sites in different regions of Russia.
 
-The main technological task from the point of view of development was ** creation of a decision support system**.
+The main technological task from the point of view of development was **creation of a decision support system**.
 The DSS includes: integration of external sources, a data warehouse, and a set of BI dashboards.
 + External sources mainly mean data from mining pools and crypto exchanges. Integration with the data warehouse is carried out through **FastAPI**. Automation via **Apache Airflow**.
 + The DBMS **PostgreSQL** is used to develop the data warehouse. The logical model was designed according to Kimball, such a choice was due to the small amount of data, as well as the simplicity of development relative to the Inmon approach.
