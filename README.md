@@ -1,7 +1,7 @@
 ## Contents
 
 * [About Me](#about-me)
-* [Expirience](#expirience)
+* [Experience](#experience)
 * [Education](#education)
 * [Projects](#projects)
 
