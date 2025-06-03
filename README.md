@@ -8,7 +8,7 @@
 
 ## About Me
 <img align='right' src='https://github.com/ElijahKhin/elijahkhin/blob/main/materials/guts-berserk.gif' width='200'>
-I am Elijah Khin, 25 years old, living in Russia, Moscow.
+I am Elijah Khin, 26 years old, living in Russia, Moscow.
 
 <ul>
 <li>Entrepreneur a.k.a. unemployed</li>
